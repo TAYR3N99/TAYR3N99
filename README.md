@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TAYR3N99
-- 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning Security
+- 👀 I’m interested in Data science
+- 🌱 I’m currently learning Data
 - 💞️ I’m looking to collaborate on something 
 - 📫 How to reach me " just dm me :D "
 
